@@ -1,0 +1,25 @@
+body {
+    padding: 20px;
+    background-color: rgba(255, 127, 80, 0.644);
+}
+ input {
+padding: 8px;
+font-size: 15px;
+border-radius: 10px;
+width: 820px;
+}
+section 
+
+b input {
+width:300px;
+}
+
+.batata {
+    display: flex;
+    flex-direction: column;
+}
+
+.outrabatata{
+    display: flex;
+    flex-wrap: wrap;
+}
